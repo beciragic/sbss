@@ -1,0 +1,21 @@
+{
+    "name": "trendhosting/sbss",
+    "type": "typo3-cms-extension",
+    "description": "SBSS Theme",
+    "homepage": "https://www.trendhosting.ch",
+    "license": ["GPL-2.0-or-later"],
+    "keywords": ["TYPO3 CMS"],
+    "require": {
+        "bk2k/bootstrap-package": "^12.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Trendhosting\\Sbss\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "sbss"
+        }
+    }
+}

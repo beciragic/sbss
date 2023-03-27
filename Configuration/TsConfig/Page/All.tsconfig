@@ -1,0 +1,7 @@
+#
+# PageTS for SBSS
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:sbss/Configuration/TsConfig/Page/RTE.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:sbss/Configuration/TsConfig/Page/TCEFORM.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:sbss/Configuration/TsConfig/Page/TCEMAIN.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:sbss/Configuration/TsConfig/Page/Mod/WebLayout/BackendLayouts.tsconfig">
